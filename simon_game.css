@@ -1,0 +1,48 @@
+*{
+    text-align: center;
+    background-color: beige;
+}
+h2{
+    display: inline;
+    line-height: 50px;
+}
+h1{
+    font-size: 50px;
+}
+
+.btn{
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    margin: 5px 5px 5px 5px;
+    border-radius: 10px;
+}
+    
+.red{
+    background-color: rgba(255, 0, 72, 0.902);
+    border-top-left-radius: 50%;
+}
+.blue{
+    background-color: rgba(47, 0, 255, 0.812);
+    border-bottom-left-radius: 50%;
+}
+.green{
+    background-color: rgba(47, 128, 0, 0.884);
+    border-top-right-radius: 50%;
+}
+.yellow{
+    background-color: rgba(255, 174, 0, 0.935);
+    border-bottom-right-radius: 50%;
+}
+
+.flash{
+    background-color: white;
+}
+.userflash{
+    background-color: black;
+}
+
+.over{
+    background-color: red;
+}
